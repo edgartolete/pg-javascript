@@ -6,3 +6,5 @@ console.log("nullVal", !!nullVal)
 
 const emptyObjectVal = {}
 console.log("emptyObjectVal: ", !!emptyObjectVal)
+
+console.log('# screen: ', screen)
